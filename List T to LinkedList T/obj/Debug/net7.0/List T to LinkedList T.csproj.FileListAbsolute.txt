@@ -1,0 +1,15 @@
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/bin/Debug/net7.0/List T to LinkedList T
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/bin/Debug/net7.0/List T to LinkedList T.deps.json
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/bin/Debug/net7.0/List T to LinkedList T.runtimeconfig.json
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/bin/Debug/net7.0/List T to LinkedList T.dll
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/bin/Debug/net7.0/List T to LinkedList T.pdb
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/obj/Debug/net7.0/List T to LinkedList T.csproj.AssemblyReference.cache
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/obj/Debug/net7.0/List T to LinkedList T.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/obj/Debug/net7.0/List T to LinkedList T.AssemblyInfoInputs.cache
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/obj/Debug/net7.0/List T to LinkedList T.AssemblyInfo.cs
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/obj/Debug/net7.0/List T to LinkedList T.csproj.CoreCompileInputs.cache
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/obj/Debug/net7.0/List T to LinkedList T.dll
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/obj/Debug/net7.0/refint/List T to LinkedList T.dll
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/obj/Debug/net7.0/List T to LinkedList T.pdb
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/obj/Debug/net7.0/List T to LinkedList T.genruntimeconfig.cache
+/Users/petrbinek/Projects/List T to LinkedList T/List T to LinkedList T/obj/Debug/net7.0/ref/List T to LinkedList T.dll
